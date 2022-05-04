@@ -8,7 +8,7 @@ The purpose of this project is to create a blockchain ledger system that is depl
 
 Use the terminal to run the following: streamlit run pychain.py. This will open your browser and display the ledger. Simply type in a value for the sender, receiver, and amount. Once this is completed, click "Add Block" to add the transaction to the ledger. You will see a new entry appear in the ledger with the record, creator ID, previous hash, timestamp, and nonce listed. The 'validate chain' button below the ledger can be clicked to ensure the integrity of the data. On the left side of the screen, you can adjust the block difficulty and explore the block inspector that will allow you to get the specific information contained in previous blocks. A screenshot of the deployed application is below:
 
-!(pychain)[https://raw.githubusercontent.com/tycastleberry/Challenge18/main/pychain.png]
+![pychain](https://raw.githubusercontent.com/tycastleberry/Challenge18/main/pychain.png)
 
 ---
 
